@@ -30,7 +30,7 @@ body{
 border-radius: 5px;
 position: absolute;
 }
-@media(max-width: 600px){ #keys {
+@media(max-width: 468px){ #keys {
     display: grid;
     grid-template-columns: 80px 80px 80px 80px 80px 80px 80px;
     column-gap: 5px;
