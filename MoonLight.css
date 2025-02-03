@@ -30,7 +30,7 @@ body{
 border-radius: 5px;
 position: absolute;
 }
-@media screen and (min-width: 50px){ #keys {
+@media screen and (min-width: auto){ #keys {
     display: grid;
     grid-template-columns: 80px 80px 80px 80px 80px 80px 80px;
     column-gap: 5px;
